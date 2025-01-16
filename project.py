@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 15 22:05:10 2023
-
-@author: Kezhen Xue, Tiantian Wang
 """
 
 import pandas as pd
